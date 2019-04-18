@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_small.xml",
+        "source": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\layout\\messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about_layout.xml",
+        "source": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\src\\main\\res\\layout\\about_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_rss_tabs.xml",
+        "source": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\src\\main\\res\\layout\\activity_rss_tabs.xml"
+    },
+    {
+        "merged": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_layout.xml",
+        "source": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\src\\main\\res\\layout\\list_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_round.xml",
+        "source": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\layout\\messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_large.xml",
+        "source": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\layout\\messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_small.xml",
+        "source": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\layout\\messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_large.xml",
+        "source": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\layout\\messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_rss_channel.xml",
+        "source": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\src\\main\\res\\layout\\activity_rss_channel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_round.xml",
+        "source": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\layout\\messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_fragment.xml",
+        "source": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\layout\\com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\layout\\com_facebook_activity_layout.xml"
+    }
+]

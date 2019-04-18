@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\information.png",
+        "source": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\src\\main\\res\\drawable\\information.png"
+    },
+    {
+        "merged": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\saved.png",
+        "source": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\src\\main\\res\\drawable\\saved.png"
+    },
+    {
+        "merged": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.jpg",
+        "source": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\src\\main\\res\\drawable\\background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_icon.jpg",
+        "source": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\src\\main\\res\\drawable\\home_icon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\settings.png",
+        "source": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\src\\main\\res\\drawable\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help.png",
+        "source": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\src\\main\\res\\drawable\\help.png"
+    },
+    {
+        "merged": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smallsettings.png",
+        "source": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\src\\main\\res\\drawable\\smallsettings.png"
+    },
+    {
+        "merged": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rss_tab_art.xml",
+        "source": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\src\\main\\res\\drawable\\rss_tab_art.xml"
+    },
+    {
+        "merged": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search.png",
+        "source": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\src\\main\\res\\drawable\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\refresh.png",
+        "source": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\src\\main\\res\\drawable\\refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rss_tab_tech.xml",
+        "source": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\src\\main\\res\\drawable\\rss_tab_tech.xml"
+    },
+    {
+        "merged": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background3.png",
+        "source": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\src\\main\\res\\drawable\\background3.png"
+    },
+    {
+        "merged": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home.png",
+        "source": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\src\\main\\res\\drawable\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background2.png",
+        "source": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\src\\main\\res\\drawable\\background2.png"
+    },
+    {
+        "merged": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smallhome.png",
+        "source": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\src\\main\\res\\drawable\\smallhome.png"
+    },
+    {
+        "merged": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\searchsmall.png",
+        "source": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\src\\main\\res\\drawable\\searchsmall.png"
+    },
+    {
+        "merged": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rss_tab_sports.xml",
+        "source": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\src\\main\\res\\drawable\\rss_tab_sports.xml"
+    },
+    {
+        "merged": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smallrefresh.png",
+        "source": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\src\\main\\res\\drawable\\smallrefresh.png"
+    },
+    {
+        "merged": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smallsaved.png",
+        "source": "C:\\Users\\Praveen\\AndroidStudioProjects\\NewsAssistant\\app\\src\\main\\res\\drawable\\smallsaved.png"
+    }
+]
